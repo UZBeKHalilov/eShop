@@ -2,9 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\Eshop",
-    "\\Eshop\\Eshop",
-    "\\Eshop\\Eshop\\User"
+    "\\Eshop\\packages"
   ],
-  "SelectedNode": "\\Eshop\\Eshop\\User\\Checkout.aspx",
   "PreviewInSolutionExplorer": false
 }
